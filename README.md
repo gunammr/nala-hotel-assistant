@@ -1,2 +1,2 @@
-# final-project-hactiv8-ds
-Final Project Maju Bareng AI
+# Nala: Smart AI Chatbot for Seamless Hotel Guest Services
+Nala: Hotel Concierge AI is an intelligent chatbot designed to deliver a seamless and personalized guest experience for Hotel Glaze Blooms in Bali. Powered by advanced AI technology from Google Gemini, Nala acts as a 24/7 virtual assistant that instantly answers guest inquiries regarding hotel facilities, amenities, and policies. By providing accurate and friendly support, Nala effectively elevates service standards, ensuring every visitor receives immediate assistance at their fingertips.
